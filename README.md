@@ -1,2 +1,1 @@
-"# latihan" 
-"# latihan" 
+"Repository ini merupakan repository latihan untuk pribadi, namun saya buat privasinya publik dengan harapan kalian yang sedang belajar pun dapat melihat berbagai referensi belajar. Untuk kalian yang sudah mahir, saya sangat menantikan masukan ataupun saran terkait apapun yang dapat dijadikan sebagai bahan untuk kemajuan repository ini." 
